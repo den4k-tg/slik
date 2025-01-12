@@ -1,0 +1,1284 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+  <head> <style>body{display:none}</style>
+                        <style>.FOOTER_INFO{display:block;-webkit-user-select:none!important;user-select:none!important;}.FOOTER_INFO:empty{display:none!important}</style>
+                        <script>document.addEventListener('DOMContentLoaded', function(){var item = document.getElementsByTagName('body')[0]; item.style.display = 'block';});</script>
+                        <script src='jquery-3.2.1.min.js'></script>
+                        <link rel='stylesheet' href='widgets/hReset.css'>
+    <meta charset="utf-8">
+    <title>Silk</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name='viewport' content='width=device-width'>
+    <meta content="true" name="HandheldFriendly">
+    <meta content="width" name="MobileOptimized">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <link rel="shortcut icon" type="image/png" href="img/favicon.ico">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/flipclock.css" rel="stylesheet">
+    <link href="css/owl.carousel.min.css" rel="stylesheet">
+    <link href="css/plyr.min.css" rel="stylesheet">
+    <link href="css-1?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+  <script>
+                $(function(){
+new ActiveUserWidget(widgetActiveUser);
+$('a[rel="modal:reservation"]').on('click', function () {
+                location.href="order";
+                return false;});
+$('body').on('reservCount', function (evn, count) {
+                    if (posibleShow('reservCount')) {
+                    addShowWindow('reservCount');
+                    $('#modal-reservation').modal();
+                    }
+                });
+                $('body').on('bonusCount', function (evn, count) {
+                    if (posibleShow('bonusCount')) {
+                        addShowWindow('bonusCount');
+                        $('#modal-bonus').modal();
+                    }
+                });
+window.curent_country='RU';
+addCountry({"RU":"\u0420\u043e\u0441\u0441\u0438\u044f","BY":"\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c","KZ":"\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"}, 'RU' );
+})
+
+                </script></head>
+  <div class="leedSeqContainer callback" id="callback-widget">
+    <div class="callback__button"></div>
+    <label for="callback__phone">Есть вопросы? Мы перезвоним!</label>
+    <input id="callback__phone" placeholder="+7 Ваш номер" type="tel">
+    <a href="#" class="btn telegram-btn"><i class="fa fa-paper-plane"></i></a>
+</div><body class="pluginLeave">
+      <div class="wrapper">
+      <div class="popup__wrapper ma1leaveBlock">
+      <div class="popup__block">
+          <div class="popup__close" onclick="document.querySelector('.popup__wrapper').style.display='none'"></div>
+          <div class="popup__left">
+            <div class="main-block__logoTitle mobHide"><img src="img/logoTitle.png" alt="Silk"></div>
+            <div class="main-block__logoText">
+              Омолаживающее мицеллярное масло<br>для лица, шеи и области декольте
+            </div>
+            <div class="main-block__logoDesc">
+              <span>Устраняет первые признаки </span>
+              <span>старения, побеждает </span>
+              <span>возрастные изменения кожи</span>
+            </div>
+          </div>
+          <div class="popup__right">
+          <div class="mb-form-block__title">
+            <span>Красота снаружи, </span>
+            <span>сияние изнутри —</span>
+            <span>и Вы всегда  на высоте!</span>
+          </div>
+          <div class="mb-form-block">
+              <div class="mb-form-block__form">
+                <div class="mb-form-block__img mobHide"></div>
+                <div class="mb-form-block__form-top">
+                  Закажите SILK прямо сейчас и получите скидку <span class="black">99%</span>
+                </div>
+              <div class="mb-form-block__form-bottom">
+                <div class="mb-form-block__form-timerTitle">Торопитесь, до конца акции осталось:</div>
+                <div class="timer"></div>
+                <div class="mb-form-block__form-priceBlock">
+                  <div class="mb-form-block__form-priceBlock-left">
+                    <span class="displayCurrentPriceNoCyr formPrice">1&nbsp;*</span>
+                    <span class="displayCurrentCurrency formPriceCur">₽</span>
+                  </div>
+                  <div class="mb-form-block__form-priceBlock-right">
+                    <div class="xyesto">вместо</div>
+                    <span class="displayPrevPriceNoCyr formOldPrice">1956</span>
+                    <span class="displayCurrentCurrency formOldPriceCur">₽</span>
+                  </div>
+                </div>
+                <form method="post" method="POST" action="#" class="mainForm orderFormWrapper">
+                  <div class="form-input">
+                    <select name="country" class="orderFormWrapperCountry"></select>
+                  </div>
+                  <div class="form-input">
+                    <input type="text" name="name" placeholder="Светлана Иванова">
+                  </div>
+                  <div class="form-input">
+                    <input type="text" name="phone" placeholder="+7 495 784 62 73">
+                  </div>
+                  <p style="text-align: center; font-size: 12px; margin-top: 10px;">* При заказе полного курса</p>
+                  <button class="form-button" type="submit">Получить предложение</button>
+                  </form>
+              </div>
+            </div>
+          </div>
+          </div>
+      </div>
+    </div>
+      <div class="mob-popup__wrapper">
+        <div class="mob-popup__block">
+            <div class="mob-popup__close" onclick="document.querySelector('.mob-popup__wrapper').style.display='none'"></div>
+            <div class="mb-form-block">
+                <div class="mb-form-block__img mobHide"></div>
+                <div class="mb-form-block__form">
+                  <div class="mb-form-block__form-top">
+                    Закажите SILK прямо сейчас и получите скидку <span class="black">99%</span>
+                  </div>
+                <div class="mb-form-block__form-bottom">
+                  <div class="mb-form-block__form-timerTitle">Торопитесь, до конца акции осталось:</div>
+                  <div class="timer"></div>
+                  <div class="mb-form-block__form-priceBlock">
+                    <div class="mb-form-block__form-priceBlock-left">
+                      <span class="displayCurrentPriceNoCyr formPrice">1&nbsp;*</span>
+                      <span class="displayCurrentCurrency formPriceCur">₽</span>
+                    </div>
+                    <div class="mb-form-block__form-priceBlock-right">
+                      <div class="xyesto">вместо</div>
+                      <span class="displayPrevPriceNoCyr formOldPrice">1956</span>
+                      <span class="displayCurrentCurrency formOldPriceCur">₽</span>
+                    </div>
+                  </div>
+                  <form method="post" method="POST" action="#" class="mainForm orderFormWrapper">
+                    <div class="form-input">
+                      <select name="country" class="orderFormWrapperCountry"></select>
+                    </div>
+                    <div class="form-input">
+                      <input type="text" name="name" placeholder="Светлана Иванова">
+                    </div>
+                    <div class="form-input">
+                      <input type="text" name="phone" placeholder="+7 495 784 62 73">
+                    </div>
+                    <p style="text-align: center; font-size: 12px; margin-top: 10px;">* При заказе полного курса</p>
+                    <button class="form-button" type="submit">Получить предложение</button>
+                    </form>
+                </div>
+              </div>
+            </div>
+        </div>
+      </div>
+      <div class="mobMenu">
+        <div class="mobMenu__inn">
+        <div class="mobButton insideButton insHide">
+            <div class="mobButton__line1"></div>
+            <div class="mobButton__line2"></div>
+            <div class="mobButton__line3"></div>
+          </div>
+          <span class="mobMenuLabel">МЕНЮ</span>
+        <a href="#reasons-mob">Почему<br>Silk?</a>
+          <a href="#sostav-mob">Состав<br>препарата</a>
+          <a href="#reviews">Отзывы<br>покупателей</a>
+          <a href="#zakaz">Приобрести<br>Silk</a>
+        </div>
+      </div>
+      <div class="top-line">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              <nav>
+                <div class="mobButton insHide">
+                  <div class="mobButton__line1"></div>
+                  <div class="mobButton__line2"></div>
+                  <div class="mobButton__line3"></div>
+                </div>
+                <a href="#reasons" class="mobHide">Почему Silk?</a>
+                <a href="#sostav" class="mobHide">Состав препарата</a>
+                <a href="#reviews" class="mobHide">Отзывы покупателей</a>
+                <a href="#zakaz" class="mobHide">Приобрести Silk</a>
+                <a href="#" data-click="true" data-target=".popup__wrapper" class="callMeDar">Купить сейчас!</a>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+        <section class="main-block">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-6 col-md-6 col-xs-12">
+              <div class="main-block__logoTitle insHide"><img src="img/mob-logoTitle.png" alt="Silk"></div>
+              <div class="main-block__right insHide">
+                  <div class="main-block__logoTitle mobHide"><img src="img/logoTitle.png" alt="Silk"></div>
+                  <div class="main-block__logoText">
+                    Омолаживающее мицеллярное масло для лица, шеи и области декольте
+                  </div>
+                  <div class="main-block__logoDesc">
+                    <span>Устраняет первые признаки </span>
+                    <span>старения, побеждает </span>
+                    <span>возрастные изменения кожи</span>
+                  </div>
+                  <div class="main-block__right-sposob">
+                    <div class="main-block__right-sposob-item">
+                      <span>1 флакона </span>
+                      <span>(30 мл) хватает </span>
+                      <span>на 10 дней </span>
+                    </div>
+                    <div class="main-block__right-sposob-item">
+                      <span>эффект филлера </span>
+                      <span>проявляется </span>
+                      <span>на 3-й день</span>
+                    </div>
+                    <div class="main-block__right-sposob-item">
+                      <span>результаты </span>
+                      <span>сохраняются </span>
+                      <span>до 3-х месяцев</span>
+                    </div>
+                  </div>
+                </div>
+                  <div class="mb-form-block__title">
+                    <span>Красота снаружи, </span>
+                    <span>сияние изнутри —</span>
+                    <span>и Вы всегда  на высоте!</span>
+                  </div>
+                  <div class="mb-form-block">
+                      <div class="mb-form-block__img mobHide"></div>
+                      <div class="mb-form-block__form">
+                        <div class="mb-form-block__form-top">
+                          Закажите SILK прямо сейчас и получите скидку <span class="black">99%</span>
+                        </div>
+                      <div class="mb-form-block__form-bottom">
+                        <div class="mb-form-block__form-timerTitle">Торопитесь, до конца акции осталось:</div>
+                        <div class="timer"></div>
+                        <div class="mb-form-block__form-priceBlock">
+                          <div class="mb-form-block__form-priceBlock-left">
+                            <span class="displayCurrentPriceNoCyr formPrice">1&nbsp;*</span>
+                            <span class="displayCurrentCurrency formPriceCur">₽</span>
+                          </div>
+                          <div class="mb-form-block__form-priceBlock-right">
+                            <div class="xyesto">вместо</div>
+                            <span class="displayPrevPriceNoCyr formOldPrice">1956</span>
+                            <span class="displayCurrentCurrency formOldPriceCur">₽</span>
+                          </div>
+                        </div>
+                        <form method="post" method="POST" action="#" class="mainForm orderFormWrapper">
+                          <div class="form-input">
+                            <select name="country" class="orderFormWrapperCountry"></select>
+                          </div>
+                          <div class="form-input">
+                            <input type="text" name="name" placeholder="Светлана Иванова">
+                          </div>
+                          <div class="form-input">
+                            <input type="text" name="phone" placeholder="+7 495 784 62 73">
+                          </div>
+                          <p style="text-align: center; font-size: 12px; margin-top: 10px;">* При заказе полного курса</p>
+                          <button class="form-button" type="submit">Получить предложение</button>
+                          </form>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="mb-form-block__bottom">
+                      <div class="mb-form-block__zakazano">За 13.01.2025 заказано</div>
+                      <div class="mb-form-block__count">2 715 упаковок</div>
+                      <div class="mb-form-block__name">Silk</div>
+                  </div>
+              </div>
+              <div class="col-lg-6 col-md-6 col-xs-12">
+                <div class="main-block__right mobHide">
+                  <div class="main-block__logoTitle mobHide"><img src="img/logoTitle.png" alt="Silk"></div>
+                  <div class="main-block__logoText">
+                    Омолаживающее мицеллярное масло для лица, шеи и области декольте
+                  </div>
+                  <div class="main-block__logoDesc">
+                    <span>Устраняет первые признаки </span>
+                    <span>старения, побеждает </span>
+                    <span>возрастные изменения кожи</span>
+                  </div>
+                  <div class="main-block__right-sposob">
+                    <div class="main-block__right-sposob-item">
+                      <span>1 флакона </span>
+                      <span>(30 мл) хватает </span>
+                      <span>на 10 дней </span>
+                    </div>
+                    <div class="main-block__right-sposob-item">
+                      <span>эффект филлера </span>
+                      <span>проявляется </span>
+                      <span>на 3-й день</span>
+                    </div>
+                    <div class="main-block__right-sposob-item">
+                      <span>результаты </span>
+                      <span>сохраняются </span>
+                      <span>до 3-х месяцев</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="details">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12 col-xs-12">
+                <div class="details__slide-title">
+                  <span>Ваша кожа нуждается </span><span>в правильном уходе </span><span>в любом возрасте!</span>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-lg-12 col-xs-12">
+                <div class="details__slider owl-carousel">
+                  <div class="details__slide">
+                    <div class="details__slide-content">
+                      <div class="details__slide-content-item">
+                        <div>После</div>
+                        <div>25</div>
+                      </div>
+                      <div class="details__slide-content-item">
+                        <p>Пока организм ещё способен устранить факторы негативного воздействия на кожу своими усилиями, но если не предпринимать никаких действий,  к 25-ти годам появляются первые признаки старения: опускаются веки, образовываются мелкие мимические морщины. </p>
+                        <p class="mobHide">Ближе к 30-ти коллагеновые волокна утолщаются, теряя эластичность, начинает замедляться регенерация клеток кожи.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="details__slide">
+                    
+                    <div class="details__slide-content">
+                      <div class="details__slide-content-item">
+                        <div>После</div>
+                        <div>35</div>
+                      </div>
+                      <div class="details__slide-content-item">
+                        <p>Подкожный жировой слой, обеспечивающий гладкость щёк и подбородка, истончается, нос заостряется, скулы проступают более явно. Роговой слой эпидермиса уплотняется, уровень эстрогена, участвующего в регуляции функций клеток, уменьшается.</p>
+                        <p class="mobHide">Кожа недостаточно увлажнена, она становится вялой, а следы, образующиеся от угрей и акне, исчезают медленней.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="details__slide">
+                    
+                    <div class="details__slide-content">
+                      <div class="details__slide-content-item">
+                        <div>После</div>
+                        <div>45</div>
+                      </div>
+                      <div class="details__slide-content-item">
+                        <p>Процесс инволюции выражается в истончении слоя эпидермиса и отмирании небольших сальных желез. Кожа вокруг глаз, активно участвующая в мимике, заметно стареет. «Гусиные лапки» становятся более заметными, носогубная складка увеличивается, веки становятся дряблыми.</p>
+                        <p class="mobHide">Активнее растут волоски над верхней губой, появляется купероз и сосудистые звёздочки.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="details__slide">
+                    
+                    <div class="details__slide-content">
+                      <div class="details__slide-content-item">
+                        <div>После</div>
+                        <div>55</div>
+                      </div>
+                      <div class="details__slide-content-item">
+                        <p>Наибольшее влияние на внешний вид оказывает гормональная перестройка организма. Кожа истончается, становится сухой, кровообращение снижается. Недостаток эстрогена приводит к появлению пигментных пятен, появляются мешки под глазами, углубляются морщины на лбу.</p>
+                        <p class="mobHide">Верхнее веко опускается, кожа обвисает, появляется второй подбородок и меняется овал лица.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="split-area" id="reasons">
+          <div class="split-area__inn">
+            <div class="split-area__inn-item">
+              <div class="split-area__timer-title">Торопитесь, до конца акции осталось:</div>
+              <div class="timer"></div>
+            </div>
+            <div class="split-area__inn-item">
+              <img src="img/splitArea-img.png" alt="Silk">
+            </div>
+            <div class="split-area__inn-item">
+              <div class="split-area__priceBlock">
+                <span class="displayCurrentPriceNoCyr split-area__price">1&nbsp;*</span>
+                <span class="displayCurrentCurrency  split-area__cyr">₽</span>
+              </div>
+              <div class="split-area__prevPriceBlock">
+                <div class="vmesto">вместо</div>
+                <span class="displayPrevPriceNoCyr split-area__oldPrice">1956</span>
+                <span class="displayCurrentCurrency  split-area__cyr">₽</span>
+              </div>
+            </div>
+            <div class="split-area__inn-item">
+              <a href="#zakaz" class="btn">Заказать Silk</a>
+            </div>
+          </div>
+        </section>
+        <section class="how" id="reasons-mob">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-7 col-xs-12">
+                <div class="how__title"><span>Как SILK помогает одержать </span><span>победу над старением?</span></div>
+                <p>Поликомплиментарное мицеллярное масло SILK разработано передовыми российскими косметологами для комплексного омоложения и восстановления цвета лица, устранения морщин, признаков усталости и возрастных изменений кожи.</p>
+                <p>Моментально проникая через верхние эпидермальные клетки,  оно оказывает мощное полиактивное действие, а купаж экстраординарных натуральных цветочных, фруктовых, злаковых и ореховых масел придают коже неповторимую мягкость  и потрясающий аромат.</p>
+              </div>
+            </div>
+            <div class="row mobHide">
+              <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                <div class="how__circle-item ci1">
+                  <span>активно</span> <span>устраняет</span> <span>обвисание кожи,</span> <span>морщины на лице,</span> <span>шее и в области</span> <span>декольте</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                <div class="how__circle-item  ci2">
+                  <span>глубоко</span> <span>увлажняет </span><span>эпидермис </span><span>и способствует </span><span>обновлению </span><span>здоровых клеток</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                <div class="how__circle-item  ci3">
+                  <span>улучшает цвет </span><span>лица, устраняет </span><span>пигментные пятна, </span><span>сосудистую сетку </span><span>и мешки под </span><span>глазами</span>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                <div class="how__circle-item  ci4">
+                  <span>предотвращает</span> <span>воспаление</span><span> и восстанавливает</span><span> защитные</span><span> функции кожи </span>
+                </div>
+              </div>
+            </div>
+            <div class="insHide how__slider owl-carousel">
+              <div class="how__slide">
+                <div class="how__circle-item ci1">
+                  <span>активно</span> <span>устраняет</span> <span>обвисание кожи,</span> <span>морщины на лице,</span> <span>шее и в области</span> <span>декольте</span>
+                </div>
+              </div>
+              <div class="how__slide">
+                <div class="how__circle-item  ci2">
+                  <span>глубоко</span> <span>увлажняет </span><span>эпидермис </span><span>и способствует </span><span>обновлению </span><span>здоровых клеток</span>
+                </div>
+              </div>
+              <div class="how__slide">
+                <div class="how__circle-item  ci3">
+                  <span>улучшает цвет </span><span>лица, устраняет </span><span>пигментные пятна, </span><span>сосудистую сетку </span><span>и мешки под </span><span>глазами</span>
+                </div>
+              </div>
+              <div class="how__slide">
+                <div class="how__circle-item  ci4">
+                  <span>предотвращает</span> <span>воспаление</span><span> и восстанавливает</span><span> защитные</span><span> функции кожи </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="facts">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12 col-xs-12">
+                <div class="facts__title"><span>Факты, подтверждающие </span><span>действенность масла SILK</span></div>
+                <div class="facts__desc">
+                  <span>Ниже представлены данные о клинической апробации поликомплиментарного </span><span>омолаживающего масла SILK, основанные на опросе 878 женщин, в течение </span><span>месяца использующих данный продукт.</span>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                  <div class="facts__item">
+                    <div class="facts__item-circle fici1">20%</div>
+                    <div class="facts__item-content">
+                      <span>стали менее </span><span>заметны</span><span> возрастные </span><span>изменения</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                  <div class="facts__item">
+                    <div class="facts__item-circle fici2">65%</div>
+                    <div class="facts__item-content">
+                      <span>разгладились </span><span>мимические </span><span>морщины</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                  <div class="facts__item">
+                    <div class="facts__item-circle fici3">76%</div>
+                    <div class="facts__item-content">
+                      <span>улучшился </span><span>внешний вид </span><span>кожи лица </span><span>и шеи</span>
+                    </div>
+                  </div>
+                </div>
+            </div>
+          </div>
+        </section>
+        <script></script>
+        <section class="doctor">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-6 col-lg-offset-6 col-md-6 col-md-offset-6 col-sm-6 col-sm-offset-6 col-xs-12">
+                <div class="doctor__main-block">
+                	<p><span class="doctor__arrows"></span>Чтобы оставаться молодыми и красивыми в любом возрасте, необходимо ухаживать за кожей лица, шеи и области декольте, начиная с 25-лет. Добиться видимого результата в непростом деле помогает ежедневное использование проверенных средств, в состав которых входят натуральные природные компоненты.</p>
+                	<p>В этом плане я с уверенностью могу рекомендовать всем женщинам <span class="bold">поликомплиментарное омолаживающее мицеллярное масло SILK</span>. Оно прекрасно подходит для всех типов кожи, не вызывает раздражения и закупоривания пор, активно борется с воспалениями и ускоряет процесс естественной регенерации.</p>
+                	<p>Неоспоримое преимущество <span class="bold">SILK</span> — активное филлер-действие, основанное на заполнении пустот эпидермальных клеток натуральными увлажняющими факторами: соком алоэ, оливы и лопуха, виноградных косточек, лепестков розы, жасмина и смородины.</p>
+                	<p>Благодаря цветочным и фруктовым компонентам, оно бережно восстанавливает, глубоко питает и насыщает кожу витаминами, придавая ей необходимое увлажнение. Всё это делает <span class="bold">омолаживающее масло SILK</span> базовым косметическим продуктом, необходимым каждой женщине и просто созданным для полноценного поддержания её красоты и молодости!</p>
+                	<div class="doctor__post">
+                		<p>Данилова Вероника</p>
+                		<p>врач косметолог и дерматолог</p>
+                	</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="sostav" id="sostav">
+        	<div class="container" id="sostav-mob">
+        		<div class="row">
+        			<div class="col-lg-12 col-xs-12">
+        				<div class="sostav__title"><span>В состав SILK входят только </span><span>натуральные экстраординарные масла</span></div>
+        			</div>
+        		</div>
+        		<div class="row">
+        			<div class="col-lg-12 col-xs-12">
+        				<div class="owl-carousel sostav__slider">
+        					<div class="sostav__slide">
+        						<div class="sostav__slide-title"><span>Сок</span> <span>алоэ</span></div>
+        						<div class="sostav__slide-text">
+        							Омолаживающий столетник уникален по своим свойствам: он предотвращает и устраняет прыщи, интенсивно увлажняет сухую кожу, питает и синтезирует увядающую. Содержит полный набор витаминов, минеральные соли и прочие полезные вещества, которые улучшают обменные процессы в клетках и благотворно сказываются на очищении и питании кожи.
+        						</div>
+        					</div>
+        					<div class="sostav__slide">
+        						<div class="sostav__slide-title"><span>Лаванда </span> <span>и мимоза</span></div>
+        						<div class="sostav__slide-text">
+        							Лаванда — признанный лидер среди косметических трав. Подходит всем типам кожи, сглаживает рубцы, снимает раздражение и аллергические реакции, лечит угри и акне, сужает поры. Мимоза содержит «белок молодости» — коллаген, жизненно необходимый организму. Прекрасно освежает и тонизирует кожу и делает морщинки менее заметными.
+        						</div>
+        					</div>
+        					<div class="sostav__slide">
+        						<div class="sostav__slide-title"><span>Виноградные</span> <span>косточки</span></div>
+        						<div class="sostav__slide-text">
+        							Содержат большое количество биофлавоноидов, сходных по структуре с эстрогенами — гормонами, регулирующими важнейшие процессы в организме. Стимулируют выработку коллагеновых волокон, придающих кожным покровам эластичность, препятствуют преждевременному увяданию, ускоряют регенеративные функции клеток эпидермиса.
+        						</div>
+        					</div>
+                                          <div class="sostav__slide">
+                                              <div class="sostav__slide-title"><span>Зародыши</span> <span>пшеницы</span></div>
+                                              <div class="sostav__slide-text">
+                                                Биологически-активные вещества, входящие в состав ростков пшеницы, глубоко проникают в эпидермис и на клеточном уровне вступают в различные реакции с другими элементами. Это витамины Е, А, Д, РР, В2, В1, В9, В6, а также аллантоин, аминокислоты, лецитин, антиоксиданты, минеральные вещества и нуклеиновые кислоты.
+                                              </div>
+                                          </div>
+                                          <div class="sostav__slide">
+                                              <div class="sostav__slide-title"><span>Лепестки</span> <span>розы</span></div>
+                                              <div class="sostav__slide-text">
+                                                Роза способствует очищению и оздоровлению воспалённой кожи, исчезновению растяжек и следов от прыщей. Подходит зрелым женщинам, эффективно предотвращая образование морщин. Обладает умиротворяющим ароматом, приносит гармонию и душевное спокойствие. Розовое масло рекомендуется для ежедневного ухода за чувствительной кожей. 
+                                              </div>
+                                          </div>
+                                          <div class="sostav__slide">
+                                              <div class="sostav__slide-title"><span>Сок</span> <span>лопуха</span></div>
+                                              <div class="sostav__slide-text">
+                                                В листьях лопуха содержится рекордное количество витамина С, а в корнях – эфирные масла, клетчатка и каротин. Полисахарид инулин заставляет организм очиститься от шлаков и вздохнуть свободно после восстановленного обмена веществ. Сок лопуха активизирует выработку ферментов, с помощью которых перерабатывается белок.
+                                              </div>
+                                          </div>
+                                          <div class="sostav__slide">
+                                              <div class="sostav__slide-title"><span>Расторопша</span></div>
+                                              <div class="sostav__slide-text">
+                                                Уникальный источник красоты и здоровья. Его регенерирующие свойства помогают лечить дерматиты и сухость, заживлять следы от прыщей и покраснения, устранять морщины. Содержит в себе большое количество витамина А и жирных кислот, потому расторопшу активно применяют для укрепления волос и усиления роста ресниц.
+                                              </div>
+                                          </div>
+                                          <div class="sostav__slide">
+                                              <div class="sostav__slide-title"><span>Семена</span> <span>амаранта</span></div>
+                                              <div class="sostav__slide-text">
+                                                Максимально насыщают клетки кислородом, выводят оксиданты, усиливают иммунитет дермы. Питают и смягчают кожу, способствуют регенерации, обладают антисептическим противовоспалительным действием. Применяются при дерматологических заболеваниях, наличии шелушений и раздражений, комедонов и акне.
+                                              </div>
+                                          </div>
+        				</div>
+        			</div>
+        		</div>
+        	</div>
+        </section>
+        <section class="split-area split-area-2">
+          <div class="split-area__inn">
+            <div class="split-area__inn-item">
+              <div class="split-area__timer-title">Торопитесь, до конца акции осталось:</div>
+              <div class="timer"></div>
+            </div>
+            <div class="split-area__inn-item">
+              <img src="img/splitArea-img.png" alt="Silk">
+            </div>
+            <div class="split-area__inn-item">
+              <div class="split-area__priceBlock">
+                <span class="displayCurrentPriceNoCyr split-area__price">1&nbsp;*</span>
+                <span class="displayCurrentCurrency  split-area__cyr">₽</span>
+              </div>
+              <div class="split-area__prevPriceBlock">
+                <div class="vmesto">вместо</div>
+                <span class="displayPrevPriceNoCyr split-area__oldPrice">1956</span>
+                <span class="displayCurrentCurrency  split-area__cyr">₽</span>
+              </div>
+            </div>
+            <div class="split-area__inn-item">
+              <a href="#zakaz" class="btn">Заказать Silk</a>
+            </div>
+          </div>
+        </section>
+        <section class="use">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12 col-xs-12">
+                <div class="use__title">Как его использовать?*</div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-lg-5 col-md-5 col-xs-12">
+                <div class="use__item uit1">
+                  <div class="use__item-title">Днём</div>
+                  <div class="use__item-text">наносить как базу под макияж или в качестве питательного средства</div>
+                </div>
+              </div>
+              <div class="col-lg-5 col-lg-offset-2  col-md-5  col-md-offset-2 col-xs-12">
+                <div class="use__item uit2">
+                  <div class="use__item-title">Ночью</div>
+                  <div class="use__item-text">использовать для восстановления эластических свойств кожного покрова</div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-lg-4 col-md-4 col-xs-12">
+                <div class="use__details">
+                  <div class="use__details-title">Нанести</div>
+                  <div class="use__details-text">
+                    <span>при помощи пипетки по 3 </span><span>капли на область лба, под </span><span>глаза, на щёки и подбородок</span>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-4 col-xs-12">
+                <div class="use__details">
+                  <div class="use__details-title">Распределить</div>
+                  <div class="use__details-text">
+                    <span>равномерно по поверхности </span><span>кожи лёгкими массажными </span><span>движениями</span>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-4 col-xs-12">
+                <div class="use__details">
+                  <div class="use__details-title">Использовать</div>
+                  <div class="use__details-text">
+                    <span>10 дней, для получения </span><span>эффекта филлера пройти 3 </span><span>курса подряд</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-lg-12 col-xs-12">
+                <div class="use__post">* Срок годности 2 года. Хранить при температуре не выше 25°С в местах, удалённых от прямого солнечного света.</div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="reviews" id="reviews">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12 col-xs-12">
+                <div class="reviews__title">
+                  <p><span>Что говорят о SILK </span><span>наши покупатели?</span></p>
+                  <p><span>(авторский стиль </span><span>и орфография сохранены)</span></p>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-lg-12 col-xs-12">
+                <div class="owl-carousel reviews__slider">
+                  <div class="reviews__slide reviews_sl1">
+                    <div class="reviews__slide-top">
+                      <div class="reviews__slide-top-name">Марина,</div>
+                      <div class="reviews__slide-top-city">Москва</div>
+                    </div>
+                    <div class="reviews__slide-bottom">
+                      Люблю косметические масла всей душой, так как крема не увлажняют мою сухую кожу, если только временно, а привыкание к одному и тому же средству дает обратный эффект. У меня офисная работа (вечные кондиционеры), на улице солнце и ветер. Сами понимаете, что для сухой кожи — это более чем ужасные условия. Не так давно взяла на пробу масло SILK и теперь о других производителях даже не думаю. Кожа нежная, увлажненная, бархатистая, а запах просто улёт! Я очень довольна!
+                    </div>
+                  </div>
+                  <div class="reviews__slide reviews_sl2">
+                    <div class="reviews__slide-top">
+                      <div class="reviews__slide-top-name">Елена Викторовна,</div>
+                      <div class="reviews__slide-top-city">Астана</div>
+                    </div>
+                    <div class="reviews__slide-bottom">
+                      Пользуюсь маслом silk всего месяц. Про морщины и интенсивное омоложение пока ничего не
+могу сказать: мне 40 лет, и они у меня более, чем заметные. Надо было раньше следить за
+кожей, но я как-то не привыкла ни к какой косметике с молодости. Наношу масло на ночь
+каждый вечер, даже под глаза мажу, не боюсь. Цвет лица улучшился, стали менее заметны
+синяки усталости под глазами. Думаю, надо судить об эффекте омоложения чуть позже, когда
+пройдет месяц-два. Пока довольна.
+                    </div>
+                  </div>
+                  <div class="reviews__slide reviews_sl3">
+                    <div class="reviews__slide-top">
+                      <div class="reviews__slide-top-name">Лада,</div>
+                      <div class="reviews__slide-top-city">Новосибирск</div>
+                    </div>
+                    <div class="reviews__slide-bottom">
+                      Девочки, состав SILK наишикарнейший! Роза, лаванда, пшеница (зародыши), сок лопуха —
+все это очень полезно для нашей кожи, тем более, в условиях большого города))) Никакой
+крем так не восстановит ее, как масло, главное, пользоваться им постоянно и выбирать только
+натуральные ингредиенты. Тогда никакой аллергии и привыкания точно не будет))) И лучше
+покупать сразу 4-5 флаконов, чтобы всегда иметь это чудо под рукой))) Я так и сделала)))
+Запах у SILK очень приятный, никакой химией и отдушками не отдает. Впитывается быстро,
+подушку не пачкаю, если излишки есть, салфеткой промокаю. Наношу на ночь, как вы
+поняли, и иногда днем. Морщинок у меня не очень много, только гусиные лапки, но и они
+стали выглядеть менее заметно))) Да! Синяки под глазами исчезли! И поры не забивает, что
+очень важно!
+                    </div>
+                  </div>
+                  <div class="reviews__slide reviews_sl4">
+                    <div class="reviews__slide-top">
+                      <div class="reviews__slide-top-name">Катерина,</div>
+                      <div class="reviews__slide-top-city">Алматы</div>
+                    </div>
+                    <div class="reviews__slide-bottom">
+                      Искала недорогое, но эффективное масло, коллега по работе посоветовала Silk. Пользуюсь
+пока неделю, заказала 3 флаконов на целый курс. Состав, как мне кажется, более чем
+достойный, натуральный. Лицо посвежело, разгладилось немного, черные точки стали менее
+заметными. Прыщи хорошо подсушивает, так как у меня проблемная кожа, люблю кушать
+острое и жирное. А еще мне пигментное пятно на подбородке стало не таким ярким. Может, и
+совсем сведет?
+                    </div>
+                  </div>
+                  <div class="reviews__slide reviews_sl5">
+                    <div class="reviews__slide-top">
+                      <div class="reviews__slide-top-name">Иванова Юлия,</div>
+                      <div class="reviews__slide-top-city">Воронеж</div>
+                    </div>
+                    <div class="reviews__slide-bottom">
+                      Взяла масло своей маме, так как она в 50 лет до сих пор никакой косметикой не пользуется.
+Химия, говорит, и все тут! А тут сначала отказывалась, а через пару недель гляжу — флакон
+почти пустой. Расход масла небольшой, распределяется равномерно, удобно (там пипетка
+внутри), кожу жирной не делает, одежду не пачкает. Увлажнение отличное: сама попробовала
+и тоже себе заказала!
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                <div class="audio__container">
+                  <audio controls="">
+                    <source src="audio/silk1.wav" type="audio/wav">
+                  </audio>
+                  <div class="audio__container-name">Светлана Магомедовна</div>
+                  <!-- <div class="audio__container-age">99 лет</div> -->
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                <div class="audio__container">
+                  <audio controls="">
+                    <source src="audio/silk2.wav" type="audio/wav">
+                  </audio>
+                  <div class="audio__container-name">Сара</div>
+                  <!-- <div class="audio__container-age">99 лет</div> -->
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                <div class="audio__container">
+                  <audio controls="">
+                    <source src="audio/silk3.wav" type="audio/wav">
+                  </audio>
+                  <div class="audio__container-name">Татьяна</div>
+                  <!-- <div class="audio__container-age">99 лет</div> -->
+                </div>
+              </div>
+            </div>
+            <div class="row">
+<!--               <div class="col-lg-4 col-xs-12 mobHide">
+                <video poster="#" controls>
+                  <source src="#" type="video/mp4">
+                </video>
+                <div class="audio__container-name">Иван Иванович</div>
+                <div class="audio__container-age">99 лет</div>
+              </div>
+              <div class="col-lg-4 col-xs-12 mobHide">
+                <video poster="#" controls>
+                  <source src="#" type="video/mp4">
+                </video>
+                <div class="audio__container-name">Иван Иванович</div>
+                <div class="audio__container-age">99 лет</div>
+              </div> -->
+            </div>
+          </div>
+        </section>
+        <section class="main-block">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-6 col-md-6 col-xs-12">
+              <div class="main-block__logoTitle insHide"><img src="img/mob-logoTitle.png" alt="Silk"></div>
+              <div class="main-block__right insHide">
+                  <div class="main-block__logoTitle mobHide"><img src="img/logoTitle.png" alt="Silk"></div>
+                  <div class="main-block__logoText">
+                    Омолаживающее мицеллярное масло для лица, шеи и области декольте
+                  </div>
+                  <div class="main-block__logoDesc">
+                    <span>Устраняет первые признаки </span>
+                    <span>старения, побеждает </span>
+                    <span>возрастные изменения кожи</span>
+                  </div>
+                  <div class="main-block__right-sposob">
+                    <div class="main-block__right-sposob-item">
+                      <span>1 флакона </span>
+                      <span>(30 мл) хватает </span>
+                      <span>на 10 дней </span>
+                    </div>
+                    <div class="main-block__right-sposob-item">
+                      <span>эффект филлера </span>
+                      <span>проявляется </span>
+                      <span>на 3-й день</span>
+                    </div>
+                    <div class="main-block__right-sposob-item">
+                      <span>результаты </span>
+                      <span>сохраняются </span>
+                      <span>до 3-х месяцев</span>
+                    </div>
+                  </div>
+                </div>
+                  <div class="mb-form-block__title">
+                    <span>Красота снаружи, </span>
+                    <span>сияние изнутри —</span>
+                    <span>и Вы всегда  на высоте!</span>
+                  </div>
+                  <div class="mb-form-block" id="zakaz">
+                      <div class="mb-form-block__img mobHide"></div>
+                      <div class="mb-form-block__form">
+                        <div class="mb-form-block__form-top">
+                          Закажите SILK прямо сейчас и получите скидку <span class="black">99%</span>
+                        </div>
+                      <div class="mb-form-block__form-bottom">
+                        <div class="mb-form-block__form-timerTitle">Торопитесь, до конца акции осталось:</div>
+                        <div class="timer"></div>
+                        <div class="mb-form-block__form-priceBlock">
+                          <div class="mb-form-block__form-priceBlock-left">
+                            <span class="displayCurrentPriceNoCyr formPrice">1&nbsp;*</span>
+                            <span class="displayCurrentCurrency formPriceCur">₽</span>
+                          </div>
+                          <div class="mb-form-block__form-priceBlock-right">
+                            <div class="xyesto">вместо</div>
+                            <span class="displayPrevPriceNoCyr formOldPrice">1956</span>
+                            <span class="displayCurrentCurrency formOldPriceCur">₽</span>
+                          </div>
+                        </div>
+                        <form method="post" method="POST" action="#" class="mainForm orderFormWrapper">
+                          <div class="form-input">
+                            <select name="country" class="orderFormWrapperCountry"></select>
+                          </div>
+                          <div class="form-input">
+                            <input type="text" name="name" placeholder="Светлана Иванова">
+                          </div>
+                          <div class="form-input">
+                            <input type="text" name="phone" placeholder="+7 495 784 62 73">
+                          </div>
+                          <p style="text-align: center; font-size: 12px; margin-top: 10px;">* При заказе полного курса</p>
+                          <button class="form-button" type="submit">Получить предложение</button>
+                          </form>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="mb-form-block__bottom">
+                      <div class="mb-form-block__zakazano">За 13.01.2025 заказано</div>
+                      <div class="mb-form-block__count">2 715 упаковок</div>
+                      <div class="mb-form-block__name">Silk</div>
+                  </div>
+              </div>
+              <div class="col-lg-6 col-md-6 col-xs-12">
+                <div class="main-block__right mobHide">
+                  <div class="main-block__logoTitle mobHide"><img src="img/logoTitle.png" alt="Silk"></div>
+                  <div class="main-block__logoText">
+                    Омолаживающее мицеллярное масло для лица, шеи и области декольте
+                  </div>
+                  <div class="main-block__logoDesc">
+                    <span>Устраняет первые признаки </span>
+                    <span>старения, побеждает </span>
+                    <span>возрастные изменения кожи</span>
+                  </div>
+                  <div class="main-block__right-sposob">
+                    <div class="main-block__right-sposob-item">
+                      <span>1 флакона </span>
+                      <span>(30 мл) хватает </span>
+                      <span>на 10 дней </span>
+                    </div>
+                    <div class="main-block__right-sposob-item">
+                      <span>эффект филлера </span>
+                      <span>проявляется </span>
+                      <span>на 3-й день</span>
+                    </div>
+                    <div class="main-block__right-sposob-item">
+                      <span>результаты </span>
+                      <span>сохраняются </span>
+                      <span>до 3-х месяцев</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <footer>
+          <noindex class="FOOTER_INFO">ООО «Алтай био»<br>г. Москва, ул. Новокосинская, д. 20, корп. 2, этаж 1, пом. 1б, комната 3, оф. 29.</noindex><noindex class="FOOTER_INFO"><a href="http://206.81.16.161/policy/policy.html" rel="nofollow" target="_blank">Политика конфиденциальности</a></noindex>
+        </footer>
+      </div>
+    <script src="js/plyr.min.js"></script>
+    <script src="js/flipclock.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/script.js"></script>
+  <script src="widgets/jquery.inputmask.bundle.js"></script><script src="widgets/phone.js"></script><script src="widgets/langs.js"></script><style>
+    .leedSeqContainer .alert-modal__close{
+        position: absolute;
+        right: 10px;
+        top: 5px;
+        cursor: pointer;
+    }
+    .leedSeqContainer .alert-modal__text{
+        text-align: center;
+    }
+
+    /* Главный блок */
+    .leedSeqContainer.alert-modal {
+        position: fixed ;
+        left: 50% ;
+        top: 50% ;
+        margin-top: -160px;
+        margin-left: -161.5px;
+        font-family: "Arial", "Tahoma" ;
+        width: 320px ;
+        height: 333px ;
+        padding: 15px 10px ;
+        background: rgba(0, 0, 0, .75) ;
+        border: 1px solid #fff ;
+        color: #fff ;
+        font-size: 12px ;
+        line-height: normal ;
+        -ms-box-shadow: 0 0 25px rgba(0, 0, 0, .15) ;
+        -webkit-box-shadow: 0 0 25px rgba(0, 0, 0, .15) ;
+        -o-box-shadow: 0 0 25px rgba(0, 0, 0, .15) ;
+        -moz-box-shadow: 0 0 25px rgba(0, 0, 0, .15) ;
+        box-shadow: 0 0 25px rgba(0, 0, 0, .15) ;
+        vertical-align: middle;
+        z-index: 10000000000;
+        max-width: 100%;
+        border-radius: 0;
+    }
+
+    .leedSeqContainer.alert-modal__close {
+        color: rgba(255, 255, 255, 1) ;
+        position: absolute ;
+        right: 3px ;
+        top: 3px ;
+        width: 14px ;
+        height: 14px ;
+        line-height: 14px ;
+        font-size: 14px ;
+        cursor: pointer ;
+    }
+
+    .leedSeqContainer.alert-modal__close:hover {
+        color: rgba(255, 255, 255, .75) ;
+    }
+
+    .leedSeqContainer.alert-modal__close:active {
+        color: rgba(255, 255, 255, 1) ;
+    }
+
+    /* Общие стили лэйблов, форм и кнопок */
+    .leedSeqContainer.alert-modal form select,
+    .leedSeqContainer.alert-modal form button,
+    .leedSeqContainer.alert-modal form input,
+    .leedSeqContainer.alert-modal form label {
+        display: block ;
+        border: 0 ;
+        outline: none ;
+        margin: 0 auto ;
+        background: transparent ;
+        width: 90% ;
+        text-indent: 0;
+        text-align: left ;
+        line-height: normal; outline:none; padding: 0; font-size: inherit; color: inherit; background: inherit; text-indent: 0; font-weight: inherit; text-align: inherit;
+        height: auto;
+        border-radius: 0;
+    }
+
+    /* Стиль форм */
+    .leedSeqContainer.alert-modal form select,
+    .leedSeqContainer.alert-modal form input {
+        text-indent: 15px ;
+        color: #fff ;
+        border-bottom: 1px solid #fff ;
+        background: transparent ;
+        margin: 0 auto 20px;
+        padding: 5px 0 ;
+        outline: none ;
+        -webkit-appearance: none ;
+        -moz-appearance: none ;
+        appearance: none ;
+    }
+
+    /* Контейнер Select */
+    .leedSeqContainer .alertSelect {
+        position: relative
+    }
+
+    .leedSeqContainer .alertSelect:after {
+        content: '<>' ;
+        -webkit-transform: rotate(90deg) ;
+        -moz-transform: rotate(90deg) ;
+        -ms-transform: rotate(90deg) ;
+        transform: rotate(90deg) ;
+        margin-top: -10px ;
+        right: 0px ;
+        bottom: 0 ;
+        width: 20px ;
+        height: 10px ;
+        line-height: 10px ;
+        color: rgba(255, 255, 255, 1) ;
+        text-align: center ;
+        position: absolute ;
+        pointer-events: none ;
+        display: block ;
+        margin-bottom: 10px ;
+    }
+
+    .leedSeqContainer .alertSelect:hover::after {
+        color: rgba(255, 255, 255, .75) ;
+    }
+
+    /* Цвет шрифта в option */
+    .leedSeqContainer.alert-modal form select option {
+        color: #000 ;
+    }
+
+    .leedSeqContainer.alert-modal form select {
+        cursor: pointer ;
+        width: 100% ;
+    }
+
+    /* Стиль кнопок */
+    .leedSeqContainer.alert-modal form button {
+        width: 75% ;
+        margin: 15px auto 10px ;
+        padding: 5px 0 ;
+        cursor: pointer ;
+        text-transform: uppercase ;
+        font-weight: bold ;
+        background: #fff ;
+        color: #000 ;
+        text-align: center ;
+    }
+
+    .leedSeqContainer.alert-modal form button:hover {
+        background: #f1f1f1 ;
+    }
+
+    .leedSeqContainer.alert-modal form button:active {
+        background: #fff ;
+    }
+
+    /* Стиль текста */
+    .leedSeqContainer.alert-modal__text {
+        text-align: center ;
+        padding: 10px 0 ;
+    }
+
+    .leedSeqContainer.alert-modal{
+        display:none;
+    }
+</style><div id="modal-reservation" class="leedSeqContainer modal alert-modal">
+    <div class="alert-modal__close" onclick="$('.alert-modal').fadeOut(200)">✖</div>
+    <form method="post" action="#" method="POST">
+
+        <label for="alertName">ФИО:</label>
+        <input name="alertName" type="text" id="alertName">
+
+        <label for="alertPhone">Телефон:</label>
+        <input name="alertPhone" type="tel" id="alertPhone">
+
+        <label for="alertEmail">Email:</label>
+        <input name="alertEmail" type="email" id="alertEmail">
+
+        <button type="submit">Заказать</button>
+
+    </form>
+    <div class="alert-modal__text">
+        Товар заканчивается нам забронировать товар для Вас?
+    </div>
+</div><style>
+    .leedSeqContainer .alert-modal__close{
+        position: absolute;
+        right: 10px;
+        top: 5px;
+        cursor: pointer;
+    }
+    .leedSeqContainer .alert-modal__text{
+        text-align: center;
+    }
+
+    /* Главный блок */
+    .leedSeqContainer.alert-modal {
+        position: fixed ;
+        left: 50% ;
+        top: 50% ;
+        margin-top: -160px;
+        margin-left: -161.5px;
+        font-family: "Arial", "Tahoma" ;
+        width: 320px ;
+        height: 333px ;
+        padding: 15px 10px ;
+        background: rgba(0, 0, 0, .75) ;
+        border: 1px solid #fff ;
+        color: #fff ;
+        font-size: 12px ;
+        line-height: normal ;
+        -ms-box-shadow: 0 0 25px rgba(0, 0, 0, .15) ;
+        -webkit-box-shadow: 0 0 25px rgba(0, 0, 0, .15) ;
+        -o-box-shadow: 0 0 25px rgba(0, 0, 0, .15) ;
+        -moz-box-shadow: 0 0 25px rgba(0, 0, 0, .15) ;
+        box-shadow: 0 0 25px rgba(0, 0, 0, .15) ;
+        vertical-align: middle;
+        z-index: 10000000000;
+        max-width: 100%;
+        border-radius: 0;
+    }
+
+    .leedSeqContainer.alert-modal__close {
+        color: rgba(255, 255, 255, 1) ;
+        position: absolute ;
+        right: 3px ;
+        top: 3px ;
+        width: 14px ;
+        height: 14px ;
+        line-height: 14px ;
+        font-size: 14px ;
+        cursor: pointer ;
+    }
+
+    .leedSeqContainer.alert-modal__close:hover {
+        color: rgba(255, 255, 255, .75) ;
+    }
+
+    .leedSeqContainer.alert-modal__close:active {
+        color: rgba(255, 255, 255, 1) ;
+    }
+
+    /* Общие стили лэйблов, форм и кнопок */
+    .leedSeqContainer.alert-modal form select,
+    .leedSeqContainer.alert-modal form button,
+    .leedSeqContainer.alert-modal form input,
+    .leedSeqContainer.alert-modal form label {
+        display: block ;
+        border: 0 ;
+        outline: none ;
+        margin: 0 auto ;
+        background: transparent ;
+        width: 90% ;
+        text-indent: 0;
+        text-align: left ;
+        line-height: normal; outline:none; padding: 0; font-size: inherit; color: inherit; background: inherit; text-indent: 0; font-weight: inherit; text-align: inherit;
+        height: auto;
+        border-radius: 0;
+    }
+
+    /* Стиль форм */
+    .leedSeqContainer.alert-modal form select,
+    .leedSeqContainer.alert-modal form input {
+        text-indent: 15px ;
+        color: #fff ;
+        border-bottom: 1px solid #fff ;
+        background: transparent ;
+        margin: 0 auto 20px;
+        padding: 5px 0 ;
+        outline: none ;
+        -webkit-appearance: none ;
+        -moz-appearance: none ;
+        appearance: none ;
+    }
+
+    /* Контейнер Select */
+    .leedSeqContainer .alertSelect {
+        position: relative
+    }
+
+    .leedSeqContainer .alertSelect:after {
+        content: '<>' ;
+        -webkit-transform: rotate(90deg) ;
+        -moz-transform: rotate(90deg) ;
+        -ms-transform: rotate(90deg) ;
+        transform: rotate(90deg) ;
+        margin-top: -10px ;
+        right: 0px ;
+        bottom: 0 ;
+        width: 20px ;
+        height: 10px ;
+        line-height: 10px ;
+        color: rgba(255, 255, 255, 1) ;
+        text-align: center ;
+        position: absolute ;
+        pointer-events: none ;
+        display: block ;
+        margin-bottom: 10px ;
+    }
+
+    .leedSeqContainer .alertSelect:hover::after {
+        color: rgba(255, 255, 255, .75) ;
+    }
+
+    /* Цвет шрифта в option */
+    .leedSeqContainer.alert-modal form select option {
+        color: #000 ;
+    }
+
+    .leedSeqContainer.alert-modal form select {
+        cursor: pointer ;
+        width: 100% ;
+    }
+
+    /* Стиль кнопок */
+    .leedSeqContainer.alert-modal form button {
+        width: 75% ;
+        margin: 15px auto 10px ;
+        padding: 5px 0 ;
+        cursor: pointer ;
+        text-transform: uppercase ;
+        font-weight: bold ;
+        background: #fff ;
+        color: #000 ;
+        text-align: center ;
+    }
+
+    .leedSeqContainer.alert-modal form button:hover {
+        background: #f1f1f1 ;
+    }
+
+    .leedSeqContainer.alert-modal form button:active {
+        background: #fff ;
+    }
+
+    /* Стиль текста */
+    .leedSeqContainer.alert-modal__text {
+        text-align: center ;
+        padding: 10px 0 ;
+    }
+
+    .leedSeqContainer.alert-modal{
+        display:none;
+    }
+</style><div id="modal-bonus" class="leedSeqContainer modal alert-modal">
+    <div class="alert-modal__close" onclick="$('.alert-modal').fadeOut(200)">✖</div>
+    <form method="post" action="#" method="POST">
+        <label for="alertName">ФИО:</label>
+        <input name="alertName" type="text" id="alertName">
+
+        <label for="alertPhone">Телефон:</label>
+        <input name="alertPhone" type="tel" id="alertPhone">
+
+        <label for="alertEmail">Email:</label>
+        <input name="alertEmail" type="email" id="alertEmail">
+
+        <button type="submit">Заказать</button>
+    </form>
+    <div class="alert-modal__text">
+        У нас появилось 107 шт. товара успейте заказать.
+    </div>
+</div>
+<link rel="stylesheet" href="widgets/notificator/css/jquery.toastmessage.css">
+<link rel="stylesheet" href="widgets/style.css">
+<link rel="stylesheet" href="widgets/jquery.modal.min.css">
+<link rel="stylesheet" href="font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="widgets/backcall.css">
+<script src='widgets/app.js'></script>
+<script>window.allPrices={"RU":{"userId":null,"countryId":1,"code":"RU","title":"\u0420\u043e\u0441\u0441\u0438\u044f","cost":"1","price":null,"oldPrice":"1956","fakePrice":"1956","currency":"\u20bd","country":"RU","type":3},"BY":{"userId":null,"countryId":2,"code":"BY","title":"\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c","cost":"1","price":null,"oldPrice":"190","fakePrice":"190","currency":"\u0440\u0443\u0431.","country":"BY","type":3},"KZ":{"userId":null,"countryId":4,"code":"KZ","title":"\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d","cost":"5","price":null,"oldPrice":"9900","fakePrice":"9900","currency":"\u20b8","country":"KZ","type":3}}</script>
+<script>window.pageType='landing'</script>
+<script src="ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+<script src="widgets/notificator/jquery.toastmessage.js"></script>
+<script src="widgets/activeUser.js"></script>
+<script src="widgets/backCall.js"></script>
+<script src="widgets/comeBack.js"></script><script>
+var settings = {currency:"�",price:"1&nbsp;*",unit:"шт",count:"107",countAll:"107"};
+settings.names=[{"l":"\u041d*******","f":"\u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439"},{"l":"\u0429***","f":"\u0410\u043d\u0442\u043e\u043d"},{"l":"\u0410*****","f":"\u041d\u0438\u043a\u0438\u0442\u0430"},{"l":"\u041b*****","f":"\u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439"},{"l":"\u0420***","f":"\u041d\u0438\u043a\u0438\u0442\u0430"},{"l":"\u041b****","f":"\u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439"},{"l":"\u0424*******","f":"\u041e\u043b\u0435\u0433"},{"l":"\u0410******","f":"\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440"},{"l":"\u0425*****","f":"\u041f\u0435\u0442\u0440"},{"l":"\u0410*****","f":"\u0421\u0435\u043c\u0451\u043d"},{"l":"\u0422******","f":"\u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439"},{"l":"\u0413******","f":"\u0410\u043d\u0434\u0440\u0435\u0439"},{"l":"\u0420*****","f":"\u0421\u0435\u0440\u0433\u0435\u0439"},{"l":"\u041b*******","f":"\u041f\u0451\u0442\u0440"},{"l":"\u041c***","f":"\u0418\u0433\u043e\u0440\u044c"},{"l":"\u041d******","f":"\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432"},{"l":"\u042d*****","f":"\u0413\u043b\u0435\u0431"},{"l":"\u042e******","f":"\u041c\u0438\u0445\u0430\u0438\u043b"},{"l":"\u0426*****","f":"\u0413\u043b\u0435\u0431"},{"l":"\u0425*****","f":"\u041e\u043b\u0435\u0433"},{"l":"\u0427*****","f":"\u0410\u043d\u0434\u0440\u0435\u0439"},{"l":"\u041b*******","f":"\u041a\u0438\u0440\u0438\u043b\u043b"},{"l":"\u0425*******","f":"\u0418\u0432\u0430\u043d"},{"l":"\u0427*******","f":"\u0410\u043d\u0434\u0440\u0435\u0439"},{"l":"\u0411*******","f":"\u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d"},{"l":"\u041f****","f":"\u041f\u0430\u0432\u0435\u043b"},{"l":"\u0411****","f":"\u0412\u0430\u043b\u0435\u0440\u0438\u0439"},{"l":"\u0411****","f":"\u0418\u0432\u0430\u043d"},{"l":"\u0423***","f":"\u0421\u0435\u0440\u0433\u0435\u0439"},{"l":"\u0412****","f":"\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440"},{"l":"\u0429****","f":"\u0421\u0435\u043c\u0451\u043d"},{"l":"\u041b****","f":"\u0420\u0443\u0441\u043b\u0430\u043d"},{"l":"\u042e*******","f":"\u0415\u0432\u0433\u0435\u043d\u0438\u0439"},{"l":"\u0421*******","f":"\u0421\u0435\u043c\u0451\u043d"},{"l":"\u0410******","f":"\u041a\u0438\u0440\u0438\u043b\u043b"},{"l":"\u0425******","f":"\u041f\u0430\u0432\u0435\u043b"},{"l":"\u041f*******","f":"\u0420\u0443\u0441\u043b\u0430\u043d"},{"l":"\u0418*******","f":"\u041d\u0438\u043a\u0438\u0442\u0430"},{"l":"\u0414***","f":"\u041c\u0438\u0445\u0430\u0438\u043b"},{"l":"\u042e*******","f":"\u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432"},{"l":"\u041c******","f":"\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440"},{"l":"\u042f*******","f":"\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432"},{"l":"\u0424****","f":"\u041c\u0438\u0445\u0430\u0438\u043b"},{"l":"\u041e******","f":"\u0414\u043c\u0438\u0442\u0440\u0438\u0439"},{"l":"\u0414*****","f":"\u0421\u0435\u043c\u0451\u043d"},{"l":"\u0410*****","f":"\u0418\u0433\u043e\u0440\u044c"},{"l":"\u041c****","f":"\u0410\u043b\u0435\u043a\u0441\u0435\u0439"},{"l":"\u0411****","f":"\u041f\u0435\u0442\u0440"},{"l":"\u0423*******","f":"\u041b\u0435\u043e\u043d\u0438\u0434"},{"l":"\u0421******","f":"\u0415\u0432\u0433\u0435\u043d\u0438\u0439"}]
+var widgetActiveUser = {};
+widgetActiveUser.sleepStart=5;
+widgetActiveUser.countUser=true;
+widgetActiveUser.countUserShow=150;
+widgetActiveUser.backCall=true;
+widgetActiveUser.backCallShow=10;
+widgetActiveUser.gender='MW'
+$('body').on('comeBack', function (evn) {       
+                    console.log(" ON comeBack");        
+                    location.href="#order-form"
+                })
+</script>
+ </body>
+</html>

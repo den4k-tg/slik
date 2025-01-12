@@ -1,0 +1,328 @@
+Uri: http://v9.silk24.shop/?pgtype=3
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\index.htm
+Content Type: text/html
+
+Uri: http://v9.silk24.shop/audio/silk1.wav
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\audio\silk1.wav
+Content Type: application/octet-stream
+
+Uri: http://v9.silk24.shop/audio/silk2.wav
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\audio\silk2.wav
+Content Type: application/octet-stream
+
+Uri: http://v9.silk24.shop/audio/silk3.wav
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\audio\silk3.wav
+Content Type: application/octet-stream
+
+Uri: http://v9.silk24.shop/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://v9.silk24.shop/css/flipclock.css
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\css\flipclock.css
+Content Type: text/css
+
+Uri: http://v9.silk24.shop/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://v9.silk24.shop/css/plyr.min.css
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\css\plyr.min.css
+Content Type: text/css
+
+Uri: http://v9.silk24.shop/css/style.css
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\css\style.css
+Content Type: text/css
+
+Uri: http://v9.silk24.shop/img/details-bg.jpg
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\details-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://v9.silk24.shop/img/doctor-arrows.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\doctor-arrows.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/doctor-bg.jpg
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\doctor-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://v9.silk24.shop/img/facts-bg.jpg
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\facts-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://v9.silk24.shop/img/header-sposob-bg.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\header-sposob-bg.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/how-bg.jpg
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\how-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://v9.silk24.shop/img/logoTitle.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\logoTitle.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/mob-details-bg.jpg
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\mob-details-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://v9.silk24.shop/img/mob-doctor-arrows.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\mob-doctor-arrows.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/mob-facts-bg.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\mob-facts-bg.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/mob-header-sposob-bg.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\mob-header-sposob-bg.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/mob-how-bg.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\mob-how-bg.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/mob-logoTitle.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\mob-logoTitle.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/mob-phoneIcon.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\mob-phoneIcon.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/mob-product-header.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\mob-product-header.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/mob-sprite-sostav-arrows.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\mob-sprite-sostav-arrows.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/phoneIcon.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\phoneIcon.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/popup-bg.gif
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\popup-bg.gif
+Content Type: image/gif
+
+Uri: http://v9.silk24.shop/img/popup-close.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\popup-close.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/product-header.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\product-header.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/r1.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\r1.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/r2.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\r2.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/r3.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\r3.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/r5.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\r5.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/r6.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\r6.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/seld.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\seld.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/selu.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\selu.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/split-area-bg.jpg
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\split-area-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://v9.silk24.shop/img/splitArea-img.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\splitArea-img.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/sprite-facts.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\sprite-facts.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/sprite-reviews-arrows.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\sprite-reviews-arrows.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/sprite-sostav-arrows.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\sprite-sostav-arrows.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/img/sprite-use.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\img\sprite-use.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/js/flipclock.min.js
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\js\flipclock.min.js
+Content Type: application/javascript
+
+Uri: http://v9.silk24.shop/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://v9.silk24.shop/js/plyr.min.js
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\js\plyr.min.js
+Content Type: application/javascript
+
+Uri: http://v9.silk24.shop/js/script.js
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\js\script.js
+Content Type: application/javascript
+
+Uri: http://v9.silk24.shop/video/silk.mp4
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\video\silk.mp4
+Content Type: video/mp4
+
+Uri: http://v9.silk24.shop/widgets/activeUser.js
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\widgets\activeUser.js
+Content Type: application/javascript
+
+Uri: http://v9.silk24.shop/widgets/app.js
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\widgets\app.js
+Content Type: application/javascript
+
+Uri: http://v9.silk24.shop/widgets/backcall.css
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\widgets\backcall.css
+Content Type: text/css
+
+Uri: http://v9.silk24.shop/widgets/backCall.js
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\widgets\backCall.js
+Content Type: application/javascript
+
+Uri: http://v9.silk24.shop/widgets/comeBack.js
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\widgets\comeBack.js
+Content Type: application/javascript
+
+Uri: http://v9.silk24.shop/widgets/hReset.css
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\widgets\hReset.css
+Content Type: text/css
+
+Uri: http://v9.silk24.shop/widgets/images/ding-button.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\widgets\images\ding-button.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/widgets/jquery.inputmask.bundle.js
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\widgets\jquery.inputmask.bundle.js
+Content Type: application/javascript
+
+Uri: http://v9.silk24.shop/widgets/jquery.modal.min.css
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\widgets\jquery.modal.min.css
+Content Type: text/css
+
+Uri: http://v9.silk24.shop/widgets/langs.js
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\widgets\langs.js
+Content Type: application/javascript
+
+Uri: http://v9.silk24.shop/widgets/notificator/css/jquery.toastmessage.css
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\widgets\notificator\css\jquery.toastmessage.css
+Content Type: text/css
+
+Uri: http://v9.silk24.shop/widgets/notificator/images/close.gif
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\widgets\notificator\images\close.gif
+Content Type: image/gif
+
+Uri: http://v9.silk24.shop/widgets/notificator/images/error.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\widgets\notificator\images\error.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/widgets/notificator/images/notice.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\widgets\notificator\images\notice.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/widgets/notificator/images/success.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\widgets\notificator\images\success.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/widgets/notificator/images/warning.png
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\widgets\notificator\images\warning.png
+Content Type: image/png
+
+Uri: http://v9.silk24.shop/widgets/notificator/jquery.toastmessage.js
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\widgets\notificator\jquery.toastmessage.js
+Content Type: application/javascript
+
+Uri: http://v9.silk24.shop/widgets/phone.js
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\widgets\phone.js
+Content Type: application/javascript
+
+Uri: http://v9.silk24.shop/widgets/style.css
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\widgets\style.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\ajax\libs\jquery-modal\0.9.1\jquery.modal.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.2.1.min.js
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\v9.silk24.shop\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
